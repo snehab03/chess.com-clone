@@ -29,11 +29,14 @@ Follow these steps to set up the project locally:
    ```bash
    git clone git@github.com:snehab03/chess.com-clone.git
 2. Navigate to the project directory:
-cd chess.com-clone
+   ```bash
+    cd chess.com-clone
 3. Install dependencies:
-npm install
+   ```bash
+   npm install
 4. Start the development server:
-npm start
+   ```bash
+   npm start
 5. Access the app in your browser:
 URL: http://localhost:3000
 
