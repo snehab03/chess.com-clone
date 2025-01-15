@@ -35,7 +35,7 @@ npm install
 4. Start the development server:
 npm start
 5. Access the app in your browser:
-URL: http://localhost:8080
+URL: http://localhost:3000
 
 ## Screenshots
 ### Home Page
